@@ -1,0 +1,25 @@
+2021-10-13 10:37:11.969 INFO [main] [com.flipkart.testcases.TC_flipkart] - Entered an email
+2021-10-13 10:37:12.111 INFO [main] [com.flipkart.testcases.TC_flipkart] - Password has been entered..
+2021-10-13 10:37:12.225 INFO [main] [com.flipkart.testcases.TC_flipkart] - Clicked on Login..
+2021-10-13 10:37:14.470 INFO [main] [com.flipkart.testcases.TC_flipkart] - Entered Text into Search box
+2021-10-13 10:37:14.630 INFO [main] [com.flipkart.testcases.TC_flipkart] - Clicked on search Button
+2021-10-13 10:37:16.803 INFO [main] [com.flipkart.testcases.TC_flipkart] - Clicked on minPrice dropdown
+2021-10-13 10:37:17.058 INFO [main] [com.flipkart.testcases.TC_flipkart] - Min price has been selected
+2021-10-13 10:37:19.388 INFO [main] [com.flipkart.testcases.TC_flipkart] - Max price has been selected
+2021-10-13 10:37:20.204 INFO [main] [com.flipkart.testcases.TC_flipkart] - Ram Option has been selected
+2021-10-13 10:37:22.324 INFO [main] [com.flipkart.testcases.TC_flipkart] - Clicked on Availability dropdown
+2021-10-13 10:37:22.466 INFO [main] [com.flipkart.testcases.TC_flipkart] - Availability Option has been selected
+2021-10-13 10:37:24.814 INFO [main] [com.flipkart.testcases.TC_flipkart] - Product Brand has been selected..
+2021-10-13 10:37:27.192 INFO [main] [com.flipkart.testcases.TC_flipkart] - Got the Specs details of Product
+2021-10-13 10:37:27.246 INFO [main] [com.flipkart.testcases.TC_flipkart] - Product has been selected..
+2021-10-13 10:37:30.420 INFO [main] [com.flipkart.testcases.TC_flipkart] - Product has been added into the cart...
+2021-10-13 10:37:32.486 INFO [main] [com.flipkart.testcases.TC_flipkart] - Got the Specs details of Product
+2021-10-13 10:37:32.502 INFO [main] [com.flipkart.testcases.TC_flipkart] - ####product specs from my cart: POCO C3 (Matte Black, 32 GB)
+3 GB RAM
+Seller:Truenet Commerce
+₹7,999₹9,99920% Off4 offers applied
+2021-10-13 10:37:32.557 INFO [main] [com.flipkart.testcases.TC_flipkart] - Got the title : By.xpath: //div[starts-with(text(),'My Cart')]
+2021-10-13 10:37:32.653 INFO [main] [com.flipkart.testcases.TC_flipkart] - Amt=  ₹7,999
+2021-10-13 10:37:32.654 INFO [main] [com.flipkart.testcases.TC_flipkart] - specsInCart[0] ==>POCO C3 (Matte Black, 32 GB)
+2021-10-13 10:37:32.654 INFO [main] [com.flipkart.testcases.TC_flipkart] - specsOnCatalogPage[0] ==>POCO C3 (Matte Black, 32 GB)
+2021-10-13 10:37:32.654 INFO [main] [com.flipkart.testcases.TC_flipkart] - Specs are Matched..!
