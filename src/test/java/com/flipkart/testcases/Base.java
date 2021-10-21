@@ -48,6 +48,7 @@ public class Base {
 		driver.get(prop.getProperty("baseUrl"));
 	}
 
+	
 	@AfterClass
 	public void quit() {
 		driver.quit();
